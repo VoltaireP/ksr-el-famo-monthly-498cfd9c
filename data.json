@@ -1,5 +1,12 @@
 {
-  "actions": [],
+  "actions": [
+    "55 new ads created in September, mostly the new videos launched across the dealerships between Sep 22 and Sep 26 in new ad sets for Surf City, Puente Hills, San Bernardino and Mazda.",
+    "Four ads were not approved in Meta's review during the month; two were fixed and approved again.",
+    "Campaign daily budgets were adjusted 23 times during the month.",
+    "Sep 22 trims across the message campaigns: Corona $383 to $350, Surf City $473 to $462, Puente Hills $404 to $397, Audi $400 to $394, Mazda $277 to $267.",
+    "Four new ad sets built with location targeting; seven ad sets switched off; the March Mazda lead form set and the July Audi set turned back on.",
+    "24 older ads switched off during the month."
+  ],
   "alarms": [],
   "campaigns": [
     {
@@ -495,6 +502,12 @@
     }
   ],
   "insight": "The VIP appointment videos that welcome every credit situation (ITIN, first-time buyers, business owners) brought the most messages per dollar, led by the Puente Hills and Mazda versions, with the work-truck ad close behind. The Surf City lead form test brought the lowest cost lead forms, so lean into those angles and refresh the weaker Surf City message ad.",
+  "insights": {
+    "creative": "Every top ad runs the VIP-visit pitch in Spanish. The Puente Hills video, headline 'Sí, ayúdame a conseguir un auto', lists ITIN, self-employed, first-time buyers and all credit types, and led with 593 conversations at $8.62. Mazda's 'Si Si, quiero un auto nuevo' video brought 298 at $9.43; Audi's work-truck ad, 'Necesitas una Troca pa la Chamba?', 293 at $9.33. We recommend testing the truck headline in Puente Hills and Corona, where only the car pitch runs.",
+    "doing": "September booked 906 appointments from 7,207 conversations and 1,798 lead forms, against 973 appointments, 7,668 conversations and 1,773 lead forms in August. Cost per conversation rose to $13.61 from $12.84, and cost per lead form eased to $54.57 from $55.53.",
+    "look_into": "Audi holds 565 of the 906 booked appointments; the other dealerships' bookings are not in the Valencia system, so they read 0 here. Surf City costs the most per conversation at $21.14 against $13.61 overall, and four September ads were not approved in Meta's review.",
+    "next": "We recommend reviewing Surf City's ads and audience first, since it starts conversations at nearly twice the account cost, and giving the September videos launched Sep 22 to 26 a full month before judging them against the older control ads."
+  },
   "labels": {
     "cpl": "Cost per lead form",
     "meta_spend": "Meta ad spend",
@@ -719,7 +732,7 @@
       "campaign_name": "KS-NSC-Puente Hills Messages-Winner Ads-CB0-scaled 6.5",
       "cost_per_result": 8.62,
       "crm_leads": null,
-      "hook": null,
+      "hook": "Video. Headline 'Sí, ayúdame a conseguir un auto'. Best deals on cars, trucks and SUVs near Puente Hills, VIP appointment, ITIN, self-employed, first buyer, all credit.",
       "link_clicks": 6165,
       "messages": 593,
       "pixel_leads": 0,
@@ -731,7 +744,7 @@
       "campaign_name": "KS-Non Special Category-Mazda-Messages-Winner-CBO",
       "cost_per_result": 9.43,
       "crm_leads": null,
-      "hook": null,
+      "hook": "Video. Headline 'Si Si, quiero un auto nuevo'. More than 7 dealerships near Santa Clarita, Palmdale, Bakersfield. VIP appointment, all credit types welcome.",
       "link_clicks": 2424,
       "messages": 298,
       "pixel_leads": 0,
@@ -743,7 +756,7 @@
       "campaign_name": "KS-NSG-OG-Audi Messages-Winner-CBO-Scaled 7.10",
       "cost_per_result": 9.33,
       "crm_leads": null,
-      "hook": null,
+      "hook": "Headline 'Necesitas una Troca pa la Chamba?' New and used trucks with warranty, VIP appointment, ITIN, own business, any credit.",
       "link_clicks": 3521,
       "messages": 293,
       "pixel_leads": 0,
@@ -755,7 +768,7 @@
       "campaign_name": "KS-NSC-Corona-Messages- Winner Ads- CBO-Scaled 7.15",
       "cost_per_result": 10.31,
       "crm_leads": null,
-      "hook": null,
+      "hook": "Headline 'Si Si, quiero obtener mi nuevo auto'. Best deals on cars, trucks and SUVs, more than 5 dealerships in Southern California, VIP appointment in Corona.",
       "link_clicks": 2652,
       "messages": 292,
       "pixel_leads": 0,
@@ -767,7 +780,7 @@
       "campaign_name": "KS-DCT-NSC-San Bernardino Messages-Winner Ads-CBO- Scaled 7.10",
       "cost_per_result": 13.11,
       "crm_leads": null,
-      "hook": null,
+      "hook": "Video. Headline 'Sí, ayúdame a conseguir un auto'. VIP appointment pitch for San Bernardino, Redlands, Highland, Riverside, Moreno Valley. All credit types.",
       "link_clicks": 3085,
       "messages": 267,
       "pixel_leads": 0,
