@@ -15,7 +15,7 @@
       "cost_per_result": 17.59,
       "cpc": 1.0,
       "cpm": 17.66,
-      "impressions": 801634,
+      "impressions": 801641,
       "landing_page_views": 0,
       "link_clicks": 14180,
       "messages": 805,
@@ -24,7 +24,7 @@
       "reach": 145905,
       "result_type": "Messages started",
       "results": 805.0,
-      "spend": 14156.55,
+      "spend": 14157.23,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -34,7 +34,7 @@
       "cost_per_result": 9.44,
       "cpc": 0.87,
       "cpm": 15.41,
-      "impressions": 787920,
+      "impressions": 787930,
       "landing_page_views": 0,
       "link_clicks": 13917,
       "messages": 1286,
@@ -43,7 +43,7 @@
       "reach": 191327,
       "result_type": "Messages started",
       "results": 1286.0,
-      "spend": 12139.1,
+      "spend": 12139.3,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -53,7 +53,7 @@
       "cost_per_result": 9.67,
       "cpc": 0.69,
       "cpm": 13.09,
-      "impressions": 902910,
+      "impressions": 902912,
       "landing_page_views": 0,
       "link_clicks": 17041,
       "messages": 1223,
@@ -62,7 +62,7 @@
       "reach": 238511,
       "result_type": "Messages started",
       "results": 1223.0,
-      "spend": 11821.14,
+      "spend": 11821.18,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -72,7 +72,7 @@
       "cost_per_result": 13.12,
       "cpc": 1.11,
       "cpm": 16.35,
-      "impressions": 703131,
+      "impressions": 703136,
       "landing_page_views": 0,
       "link_clicks": 10403,
       "messages": 876,
@@ -81,7 +81,7 @@
       "reach": 125883,
       "result_type": "Messages started",
       "results": 876.0,
-      "spend": 11497.01,
+      "spend": 11497.22,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -91,7 +91,7 @@
       "cost_per_result": 11.0,
       "cpc": 0.93,
       "cpm": 17.0,
-      "impressions": 664057,
+      "impressions": 664063,
       "landing_page_views": 0,
       "link_clicks": 12099,
       "messages": 1026,
@@ -100,7 +100,7 @@
       "reach": 164001,
       "result_type": "Messages started",
       "results": 1026.0,
-      "spend": 11287.69,
+      "spend": 11287.86,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -110,7 +110,7 @@
       "cost_per_result": 10.27,
       "cpc": 0.91,
       "cpm": 14.67,
-      "impressions": 565038,
+      "impressions": 565042,
       "landing_page_views": 0,
       "link_clicks": 9094,
       "messages": 807,
@@ -119,7 +119,7 @@
       "reach": 148331,
       "result_type": "Messages started",
       "results": 807.0,
-      "spend": 8286.64,
+      "spend": 8286.69,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -129,16 +129,16 @@
       "cost_per_result": 9.18,
       "cpc": 1.0,
       "cpm": 14.62,
-      "impressions": 563803,
+      "impressions": 563823,
       "landing_page_views": 0,
-      "link_clicks": 8254,
+      "link_clicks": 8255,
       "messages": 898,
       "pixel_leads": 0,
       "platform": "Meta",
-      "reach": 169929,
+      "reach": 170069,
       "result_type": "Messages started",
       "results": 898.0,
-      "spend": 8242.52,
+      "spend": 8242.85,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -167,7 +167,7 @@
       "cost_per_result": 13.27,
       "cpc": 1.08,
       "cpm": 19.18,
-      "impressions": 157010,
+      "impressions": 157011,
       "landing_page_views": 0,
       "link_clicks": 2790,
       "messages": 12,
@@ -176,7 +176,7 @@
       "reach": 64820,
       "result_type": "Website leads",
       "results": 227.0,
-      "spend": 3011.25,
+      "spend": 3011.31,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -186,7 +186,7 @@
       "cost_per_result": 7.86,
       "cpc": 0.87,
       "cpm": 18.72,
-      "impressions": 160490,
+      "impressions": 160492,
       "landing_page_views": 0,
       "link_clicks": 3436,
       "messages": 13,
@@ -195,7 +195,7 @@
       "reach": 77096,
       "result_type": "Website leads",
       "results": 382.0,
-      "spend": 3004.06,
+      "spend": 3004.07,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -205,7 +205,7 @@
       "cost_per_result": 15.04,
       "cpc": 1.07,
       "cpm": 19.95,
-      "impressions": 143230,
+      "impressions": 143232,
       "landing_page_views": 0,
       "link_clicks": 2659,
       "messages": 8,
@@ -214,7 +214,7 @@
       "reach": 58076,
       "result_type": "Website leads",
       "results": 190.0,
-      "spend": 2857.52,
+      "spend": 2857.55,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -224,7 +224,7 @@
       "cost_per_result": 8.87,
       "cpc": 0.93,
       "cpm": 16.33,
-      "impressions": 119406,
+      "impressions": 119411,
       "landing_page_views": 0,
       "link_clicks": 2099,
       "messages": 17,
@@ -233,7 +233,7 @@
       "reach": 53764,
       "result_type": "Website leads",
       "results": 220.0,
-      "spend": 1950.34,
+      "spend": 1950.38,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -243,7 +243,7 @@
       "cost_per_result": 10.69,
       "cpc": 0.81,
       "cpm": 15.03,
-      "impressions": 125972,
+      "impressions": 125977,
       "landing_page_views": 0,
       "link_clicks": 2326,
       "messages": 177,
@@ -252,7 +252,7 @@
       "reach": 55758,
       "result_type": "Messages started",
       "results": 177.0,
-      "spend": 1892.93,
+      "spend": 1892.95,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -262,7 +262,7 @@
       "cost_per_result": 14.63,
       "cpc": 1.19,
       "cpm": 19.53,
-      "impressions": 88361,
+      "impressions": 88362,
       "landing_page_views": 0,
       "link_clicks": 1452,
       "messages": 11,
@@ -271,7 +271,7 @@
       "reach": 39089,
       "result_type": "Website leads",
       "results": 118.0,
-      "spend": 1726.06,
+      "spend": 1726.1,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -281,7 +281,7 @@
       "cost_per_result": 11.71,
       "cpc": 1.2,
       "cpm": 20.47,
-      "impressions": 84066,
+      "impressions": 84068,
       "landing_page_views": 0,
       "link_clicks": 1432,
       "messages": 20,
@@ -290,7 +290,7 @@
       "reach": 39055,
       "result_type": "Website leads",
       "results": 147.0,
-      "spend": 1720.73,
+      "spend": 1720.76,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -300,7 +300,7 @@
       "cost_per_result": 10.94,
       "cpc": 0.83,
       "cpm": 19.75,
-      "impressions": 58739,
+      "impressions": 58740,
       "landing_page_views": 0,
       "link_clicks": 1391,
       "messages": 3,
@@ -309,17 +309,17 @@
       "reach": 27738,
       "result_type": "Website leads",
       "results": 106.0,
-      "spend": 1159.93,
+      "spend": 1160.08,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
     {
       "campaign_name": "KS- Puente Hills Halloween",
       "cost_per_lpv": null,
-      "cost_per_result": 8.71,
-      "cpc": 1.15,
-      "cpm": 30.68,
-      "impressions": 1419,
+      "cost_per_result": 8.82,
+      "cpc": 1.16,
+      "cpm": 31.06,
+      "impressions": 1420,
       "landing_page_views": 0,
       "link_clicks": 38,
       "messages": 5,
@@ -328,7 +328,7 @@
       "reach": 1019,
       "result_type": "Messages started",
       "results": 5.0,
-      "spend": 43.53,
+      "spend": 44.1,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -403,7 +403,7 @@
       "platform": "Meta",
       "reach": 438,
       "result_type": "Video plays",
-      "results": 216.0,
+      "results": 217.0,
       "spend": 16.64,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
@@ -413,7 +413,7 @@
   "currency": "USD",
   "daily": [],
   "display_name": "El Famosisimo (monthly sheet)",
-  "generated_at": "2026-10-02T00:17:10.136842-07:00",
+  "generated_at": "2026-10-04T02:02:53.498216-07:00",
   "headline": [
     {
       "format": "money",
@@ -428,9 +428,9 @@
         103149.98,
         97388.2,
         98460.24,
-        98115.24
+        98117.87
       ],
-      "value": 98115.24
+      "value": 98117.87
     },
     {
       "format": "int",
@@ -496,9 +496,9 @@
         840,
         922,
         973,
-        906
+        905
       ],
-      "value": 906
+      "value": 905
     }
   ],
   "insight": "The VIP appointment videos that welcome every credit situation (ITIN, first-time buyers, business owners) brought the most messages per dollar, led by the Puente Hills and Mazda versions, with the work-truck ad close behind. The Surf City lead form test brought the lowest cost lead forms, so lean into those angles and refresh the weaker Surf City message ad.",
@@ -511,10 +511,12 @@
   "labels": {
     "cpl": "Cost per lead form",
     "meta_spend": "Meta ad spend",
-    "pixel_leads": "Lead forms"
+    "pixel_leads": "Lead forms",
+    "tiktok_leads": "TikTok leads (via Two Minute Reports)",
+    "tiktok_spend": "TikTok ad spend (via Two Minute Reports)"
   },
   "metrics": {
-    "appointments_booked": 906,
+    "appointments_booked": 905,
     "appointments_showed": 179,
     "cost_per_message": 13.61,
     "cpl": 54.57,
@@ -523,16 +525,20 @@
     "ctr": 0.017323,
     "google_conversions": 0,
     "google_spend": 0,
-    "impressions": 6137515,
+    "impressions": 6137589,
     "landing_page_views": 0,
-    "link_clicks": 106320,
+    "link_clicks": 106321,
     "messages": 7207,
-    "meta_spend": 98115.24,
+    "meta_spend": 98117.87,
+    "odoo_leads": 0,
+    "odoo_order_value": 0,
+    "odoo_orders": 0,
+    "odoo_won": 0,
     "pixel_leads": 1798,
-    "reach": 1683826,
-    "spend": 98115.24,
-    "tiktok_leads": 0,
-    "tiktok_spend": 0
+    "reach": 1683966,
+    "spend": 101253.59,
+    "tiktok_leads": 335,
+    "tiktok_spend": 3135.72
   },
   "prior_metrics": {
     "appointments_booked": 973,
@@ -549,11 +555,15 @@
     "link_clicks": 109738,
     "messages": 7668,
     "meta_spend": 98460.24,
+    "odoo_leads": 0,
+    "odoo_order_value": 0,
+    "odoo_orders": 0,
+    "odoo_won": 0,
     "pixel_leads": 1773,
     "reach": 1771339,
-    "spend": 98460.24,
-    "tiktok_leads": 0,
-    "tiktok_spend": 0
+    "spend": 101716.31,
+    "tiktok_leads": 369,
+    "tiktok_spend": 3256.07
   },
   "segment_label": "dealership",
   "segments": [
@@ -568,16 +578,20 @@
         "ctr": 0.017667,
         "google_conversions": 0,
         "google_spend": 0,
-        "impressions": 1009518,
+        "impressions": 1009525,
         "landing_page_views": 0,
         "link_clicks": 17835,
         "messages": 823,
-        "meta_spend": 17397.62,
+        "meta_spend": 17398.3,
+        "odoo_leads": 0,
+        "odoo_order_value": 0,
+        "odoo_orders": 0,
+        "odoo_won": 0,
         "pixel_leads": 408,
         "reach": 227731,
-        "spend": 17397.62,
-        "tiktok_leads": 0,
-        "tiktok_spend": 0
+        "spend": 18012.08,
+        "tiktok_leads": 41,
+        "tiktok_spend": 613.78
       },
       "name": "Surf City"
     },
@@ -589,19 +603,23 @@
         "cpl": 44.22,
         "crm_leads": 0,
         "crm_leads_raw": 0,
-        "ctr": 0.01851,
+        "ctr": 0.018509,
         "google_conversions": 0,
         "google_spend": 0,
-        "impressions": 842799,
+        "impressions": 842811,
         "landing_page_views": 0,
         "link_clicks": 15600,
         "messages": 1046,
-        "meta_spend": 14414.6,
+        "meta_spend": 14414.96,
+        "odoo_leads": 0,
+        "odoo_order_value": 0,
+        "odoo_orders": 0,
+        "odoo_won": 0,
         "pixel_leads": 326,
         "reach": 245941,
-        "spend": 14414.6,
-        "tiktok_leads": 0,
-        "tiktok_spend": 0
+        "spend": 15045.44,
+        "tiktok_leads": 60,
+        "tiktok_spend": 630.48
       },
       "name": "Corona"
     },
@@ -616,22 +634,26 @@
         "ctr": 0.015446,
         "google_conversions": 0,
         "google_spend": 0,
-        "impressions": 847664,
+        "impressions": 847671,
         "landing_page_views": 0,
         "link_clicks": 13093,
         "messages": 885,
-        "meta_spend": 14392.48,
+        "meta_spend": 14392.72,
+        "odoo_leads": 0,
+        "odoo_order_value": 0,
+        "odoo_orders": 0,
+        "odoo_won": 0,
         "pixel_leads": 190,
         "reach": 184928,
-        "spend": 14392.48,
-        "tiktok_leads": 0,
-        "tiktok_spend": 0
+        "spend": 15024.07,
+        "tiktok_leads": 55,
+        "tiktok_spend": 631.35
       },
       "name": "San Bernardino"
     },
     {
       "metrics": {
-        "appointments_booked": 565,
+        "appointments_booked": 564,
         "appointments_showed": 109,
         "cost_per_message": 11.85,
         "cpl": 73.78,
@@ -640,16 +662,20 @@
         "ctr": 0.018685,
         "google_conversions": 0,
         "google_spend": 0,
-        "impressions": 1186437,
+        "impressions": 1186445,
         "landing_page_views": 0,
         "link_clicks": 22169,
         "messages": 1413,
-        "meta_spend": 16747.9,
+        "meta_spend": 16748.02,
+        "odoo_leads": 0,
+        "odoo_order_value": 0,
+        "odoo_orders": 0,
+        "odoo_won": 0,
         "pixel_leads": 227,
         "reach": 359380,
-        "spend": 16747.9,
-        "tiktok_leads": 0,
-        "tiktok_spend": 0
+        "spend": 17377.25,
+        "tiktok_leads": 96,
+        "tiktok_spend": 629.23
       },
       "name": "Audi"
     },
@@ -661,19 +687,23 @@
         "cpl": 39.76,
         "crm_leads": 0,
         "crm_leads_raw": 0,
-        "ctr": 0.01831,
+        "ctr": 0.018309,
         "google_conversions": 0,
         "google_spend": 0,
-        "impressions": 949829,
+        "impressions": 949842,
         "landing_page_views": 0,
         "link_clicks": 17391,
         "messages": 1304,
-        "meta_spend": 15186.69,
+        "meta_spend": 15187.47,
+        "odoo_leads": 0,
+        "odoo_order_value": 0,
+        "odoo_orders": 0,
+        "odoo_won": 0,
         "pixel_leads": 382,
         "reach": 269442,
-        "spend": 15186.69,
-        "tiktok_leads": 0,
-        "tiktok_spend": 0
+        "spend": 15818.35,
+        "tiktok_leads": 83,
+        "tiktok_spend": 630.88
       },
       "name": "Puente Hills"
     },
@@ -688,14 +718,18 @@
         "ctr": 0.016216,
         "google_conversions": 0,
         "google_spend": 0,
-        "impressions": 649104,
+        "impressions": 649110,
         "landing_page_views": 0,
         "link_clicks": 10526,
         "messages": 827,
-        "meta_spend": 10007.37,
+        "meta_spend": 10007.45,
+        "odoo_leads": 0,
+        "odoo_order_value": 0,
+        "odoo_orders": 0,
+        "odoo_won": 0,
         "pixel_leads": 147,
         "reach": 187386,
-        "spend": 10007.37,
+        "spend": 10007.45,
         "tiktok_leads": 0,
         "tiktok_spend": 0
       },
@@ -709,17 +743,21 @@
         "cpl": 84.48,
         "crm_leads": 0,
         "crm_leads_raw": 0,
-        "ctr": 0.014883,
+        "ctr": 0.014884,
         "google_conversions": 0,
         "google_spend": 0,
-        "impressions": 652164,
+        "impressions": 652185,
         "landing_page_views": 0,
-        "link_clicks": 9706,
+        "link_clicks": 9707,
         "messages": 909,
-        "meta_spend": 9968.58,
+        "meta_spend": 9968.95,
+        "odoo_leads": 0,
+        "odoo_order_value": 0,
+        "odoo_orders": 0,
+        "odoo_won": 0,
         "pixel_leads": 118,
-        "reach": 209018,
-        "spend": 9968.58,
+        "reach": 209158,
+        "spend": 9968.95,
         "tiktok_leads": 0,
         "tiktok_spend": 0
       },
@@ -736,8 +774,8 @@
       "link_clicks": 6165,
       "messages": 593,
       "pixel_leads": 0,
-      "preview_url": null,
-      "spend": 5109.78
+      "preview_url": "https://fb.me/24NmsNYbzReusET",
+      "spend": 5109.84
     },
     {
       "ad_name": "Ad-VID-3 26 1-Send Messages",
@@ -748,8 +786,8 @@
       "link_clicks": 2424,
       "messages": 298,
       "pixel_leads": 0,
-      "preview_url": null,
-      "spend": 2810.9
+      "preview_url": "https://fb.me/1W9pREH1FHGwTRD",
+      "spend": 2811.13
     },
     {
       "ad_name": "7.23-Control--EP 789634693293296- -Send Messages",
@@ -760,8 +798,8 @@
       "link_clicks": 3521,
       "messages": 293,
       "pixel_leads": 0,
-      "preview_url": null,
-      "spend": 2733.39
+      "preview_url": "https://fb.me/2b8zZ7z1dacXyc8",
+      "spend": 2733.4
     },
     {
       "ad_name": "12.18-Control- EP 1014639174008653-Send",
@@ -772,8 +810,8 @@
       "link_clicks": 2652,
       "messages": 292,
       "pixel_leads": 0,
-      "preview_url": null,
-      "spend": 3009.41
+      "preview_url": "https://fb.me/238om1dOCjjDGKs",
+      "spend": 3009.42
     },
     {
       "ad_name": "REBUILT 6.2-Winner Vid + June Copy-VID-0224 8.MOV-Send Message",
@@ -784,17 +822,19 @@
       "link_clicks": 3085,
       "messages": 267,
       "pixel_leads": 0,
-      "preview_url": null,
-      "spend": 3500.77
+      "preview_url": "https://fb.me/22KvCtx7ZlYcimp",
+      "spend": 3500.78
     }
   ],
   "unavailable": [
     "crm_leads",
     "crm_leads_raw",
-    "tiktok_spend",
-    "tiktok_leads",
     "google_spend",
-    "google_conversions"
+    "google_conversions",
+    "odoo_leads",
+    "odoo_won",
+    "odoo_orders",
+    "odoo_order_value"
   ],
   "verification": {
     "checks": [
@@ -804,7 +844,7 @@
         "ok": true
       },
       {
-        "detail": "meta 98115.24, google 0.00, tiktok 0.00, total 98115.24",
+        "detail": "meta 98117.87, google 0.00, tiktok 3135.72, total 101253.59",
         "name": "spend",
         "ok": true
       },
@@ -834,6 +874,11 @@
         "ok": true
       },
       {
+        "detail": "odoo counts match raw rows",
+        "name": "odoo_rows",
+        "ok": true
+      },
+      {
         "detail": "campaign rows add up to the platform spend",
         "name": "campaigns_additive",
         "ok": true
@@ -844,7 +889,7 @@
         "ok": true
       },
       {
-        "detail": "raw rows by date: 30 dates 2026-09-01 to 2026-09-30, 927 rows; report has no daily audit rows",
+        "detail": "raw rows by date: 30 dates 2026-09-01 to 2026-09-30, 1076 rows; report has no daily audit rows",
         "name": "raw_rows_covered",
         "ok": true
       },
